@@ -814,20 +814,31 @@
 
 
 
+
+<!-- LOCAL: You can save these files to your site and update links -->
+  
   <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-   <script type="text/javascript">
+<!-- END LOCAL -->
+    
+      <script type="text/javascript">
+      function renderGitalk(){
         var gitalk = new Gitalk({
-          clientID: '9001a85840c581af70d4',
-          clientSecret: '989a059ff5d44b911cd1a76f057d1656e021419f',
-          repo: '仓库名称',
-          owner: 'github帐号',
-          admin: ['github帐号'],
-          id: location.pathname,
-          distractionFreeMode: 'true'
-        })
-        gitalk.render('gitalk-container')           
-       </script>
+            owner: 'soon-will',
+            repo: 'soon-will.github.io',
+            clientID: '9001a85840c581af70d4',
+            clientSecret: '989a059ff5d44b911cd1a76f057d1656e021419f',
+            admin: 'soon-will',
+            
+              distractionFreeMode: 'true'
+            
+            });
+        gitalk.render('gitalk-container');
+      }
+      renderGitalk();
+      </script>
+    
+
 
 
   
