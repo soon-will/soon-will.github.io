@@ -113,7 +113,7 @@
 <meta property="og:site_name" content="PM">
 <meta property="og:description" content="产品经理应该随时反思的十大问题 产品能吸引目标用户的关注么？  产品的设计是否人性化，能否易于操作？  产品能在竞争中取胜么？即使面对未来风云变化的市场，依旧有取胜的把握么？  我了解目标用户么？产品是否能得到它们的认可？  产品是否有别于市面上的其他产品，我能在两分钟内向公司高管清楚的阐明这些类别么？能在一分钟内向用户解释清楚么？能在半分钟内向经验丰富的行内分析师解释清楚么？  产品能正常运行么">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-12-09T09:08:09.263Z">
+<meta property="og:updated_time" content="2018-12-09T09:33:07.560Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="产品经理十问">
 <meta name="twitter:description" content="产品经理应该随时反思的十大问题 产品能吸引目标用户的关注么？  产品的设计是否人性化，能否易于操作？  产品能在竞争中取胜么？即使面对未来风云变化的市场，依旧有取胜的把握么？  我了解目标用户么？产品是否能得到它们的认可？  产品是否有别于市面上的其他产品，我能在两分钟内向公司高管清楚的阐明这些类别么？能在一分钟内向用户解释清楚么？能在半分钟内向经验丰富的行内分析师解释清楚么？  产品能正常运行么">
@@ -213,16 +213,6 @@
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
             
             首页
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-about">
-          <a href="/about/" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-user"></i> <br>
-            
-            关于
           </a>
         </li>
       
@@ -354,16 +344,6 @@
 
           
             
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2018/12/09/产品经理十问/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/12/09/产品经理十问/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
           
 
           
@@ -465,8 +445,7 @@
 </li>
 <li><p>产品经理的目标是在最短的时间内把握复杂的市场需求和用户需求，确定产品的基本要求，即价值、可用性和可行性。好的产品经理和坏的产品经理区别就在于要用多少时间才能把握真正的需求；</p>
 </li>
-<li><p>一旦认定产品符合以上九条基本规律，它就是一个完整概念，去掉任何因素，都不可能达到预期的效果。</p>
-</li>
+<li>一旦认定产品符合以上九条基本规律，它就是一个完整概念，去掉任何因素，都不可能达到预期的效果。</li>
 </ol>
 <p>内容来源@苏杰</p>
 
@@ -539,6 +518,7 @@
   
     <div class="comments" id="comments">
     </div>
+	
   
 
 
@@ -874,28 +854,22 @@
 
 
 
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-  
-  <script type="text/javascript">
-    var GUEST = ['nick','mail','link'];
-    var guest = 'nick,mail';
-    guest = guest.split(',').filter(item=>{
-      return GUEST.indexOf(item)>-1;
-    });
-    new Valine({
-        el: '#comments' ,
-        verify: false,
-        notify: false,
-        appId: 'vqw0rzOpqsH3eaaCoD6d4iFK-gzGzoHsz',
-        appKey: 'qrgbMV7lh5gn7XC4WNkf3XPx',
-        placeholder: '输入昵称和邮箱（如abs@mail.com）获得随机头像。欢迎交流',
-        avatar:'mm',
-        guest_info:guest,
-        pageSize:'10' || 10,
-    });
-  </script>
 
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script type="text/javascript">
+        var gitalk = new Gitalk({
+          clientID: '9001a85840c581af70d4',
+          clientSecret: '989a059ff5d44b911cd1a76f057d1656e021419f',
+          repo: '仓库名称',
+          owner: 'github帐号',
+          admin: ['github帐号'],
+          id: location.pathname,
+          distractionFreeMode: 'true'
+        })
+        gitalk.render('gitalk-container')           
+       </script>
 
 
   
