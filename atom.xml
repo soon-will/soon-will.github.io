@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PM Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-12-09T09:33:07.560Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>张松伟</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>产品经理十问</title>
+    <link href="http://yoursite.com/2018/12/09/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%8D%81%E9%97%AE/"/>
+    <id>http://yoursite.com/2018/12/09/产品经理十问/</id>
+    <published>2018-12-09T08:47:23.000Z</published>
+    <updated>2018-12-09T09:33:07.560Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat Dec 15 2018 09:38:52 GMT+0800 (GMT+08:00) --><h2 id="产品经理应该随时反思的十大问题"><a href="#产品经理应该随时反思的十大问题" class="headerlink" title="产品经理应该随时反思的十大问题"></a>产品经理应该随时反思的十大问题</h2><ol><li><p>产品能吸引目标用户的关注么？</p></li><li><p>产品的设计是否人性化，能否易于操作？</p></li><li><p>产品能在竞争中取胜么？即使面对未来风云变化的市场，依旧有取胜的把握么？</p></li><li><p>我了解目标用户么？产品是否能得到它们的认可？</p></li><li><p>产品是否有别于市面上的其他产品，我能在两分钟内向公司高管清楚的阐明这些类别么？能在一分钟内向用户解释清楚么？能在半分钟内向经验丰富的行内分析师解释清楚么？</p></li><li><p>产品能正常运行么？</p></li><li><p>产品是否完整，用户对产品的印象如何？销售业绩如何？销售任务能否顺利完成？</p></li><li><p>产品的特色是否与目标用户的需求一致，产品的特色是否鲜明？</p></li><li><p>产品值钱么？值多少钱？为什么值这么多钱，用户会选择更便宜的产品么？</p></li><li><p>我了解其他团队成员对产品的看法么？他们觉得产品好在哪里？他们的看法是否与我的观点一致？</p></li></ol><h2 id="产品成功的十大规律"><a href="#产品成功的十大规律" class="headerlink" title="产品成功的十大规律"></a>产品成功的十大规律</h2><ol><li><p>产品经理的任务是探索产品的价值，可用性和可行性。满足需求、体验良好与技术可行缺一不可；</p></li><li><p>探索产品，或者说定义产品，需要产品经理、设计师和工程师这三个角色通力合作；</p></li><li><p>开发人员不擅长用户体验设计，因为开发人员脑子里想的是实现模型，是技术视角，思考的是怎么做出来。而用户看重的是产品的概念模型，思考的是怎么使用；</p></li><li><p>用户体验设计最重要的就是交互设计、视觉设计；</p></li><li><p>产品功能和用户体验设计密不可分。产品经理负责结果化思维，设计负责形象化表达；</p></li><li><p>产品创意必须尽早的、反复的接受目标用户的试用，以便获取有效的用户体验。如果你觉得已经不羞于把产品拿出来给用户试用，那就说明已经做晚了；</p></li><li><p>为了验证产品的价值和可用性，必须尽早的、反复的请目标用户测试产品创意；</p></li><li><p>采用高保真的产品原型是全体团队成员了解用户需求和用户体验最有效的途径；</p></li><li><p>产品经理的目标是在最短的时间内把握复杂的市场需求和用户需求，确定产品的基本要求，即价值、可用性和可行性。好的产品经理和坏的产品经理区别就在于要用多少时间才能把握真正的需求；</p></li><li>一旦认定产品符合以上九条基本规律，它就是一个完整概念，去掉任何因素，都不可能达到预期的效果。</li></ol><p>内容来源@苏杰</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Dec 15 2018 09:38:52 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;产品经理应该随时反思的十大问题&quot;&gt;&lt;a href=&quot;#产品经理应该随时反思的十大问题&quot; class=&quot;headerlink&quot; titl
+      
+    
+    </summary>
+    
+    
+      <category term="产品经理" scheme="http://yoursite.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/12/08/hello-world/"/>
+    <id>http://yoursite.com/2018/12/08/hello-world/</id>
+    <published>2018-12-08T06:49:04.248Z</published>
+    <updated>2018-12-08T06:49:04.268Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat Dec 15 2018 09:38:52 GMT+0800 (GMT+08:00) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Dec 15 2018 09:38:52 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hex
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
